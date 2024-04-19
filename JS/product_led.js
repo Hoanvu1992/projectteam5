@@ -4,31 +4,36 @@ let products = {
       image:
         "../../../Image/products/tivi-led-asanzo-32-inch-32at130-1-300x300.jpeg",
       name: "LED 32 INCH",
-      retail: "../product.html",
+      retail: "../Product_retail/product_retail.html",
     },
     {
       image:
         "../../../Image/product_led/tivi-led-Asanzo-43T660-anh-dai-dien-2-300x300.jpeg",
       name: "LED 43 INCH",
+      retail: "../Product_retail/product_retail.html",
     },
     {
       image:
         "../../../Image/product_led/Tivi-Asanzo-50-inch-50E890-300x300.png",
       name: "LED 50 INCH",
+      retail: "../Product_retail/product_retail.html",
     },
     {
       image:
         "../../../Image/product_led/Tivi-Asanzo-50-inch-50E890-300x300.png",
       name: "LED 55 INCH",
+      retail: "../Product_retail/product_retail.html",
     },
     {
       image:
         "../../../Image/product_led../../../Image/product_led/LED-CHAN-DUNG-300x300.png",
       name: "LED CHÂN ĐỨNG",
+      retail: "../Product_retail/product_retail.html",
     },
     {
       image: "../../../Image/product_led/LED-CHAN-QUY-600x600.png",
       name: "LED CHÂN QUỲ",
+      retail: "../Product_retail/product_retail.html",
     },
   ],
 };

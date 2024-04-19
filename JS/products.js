@@ -10,35 +10,43 @@ let products = {
       image:
         "../../Image/product_led/tivi-led-Asanzo-43T660-anh-dai-dien-2-300x300.jpeg",
       name: "LED 43 INCH",
+      retail: "./Product_retail/product_retail.html",
     },
     {
       image: "../../Image/product_led/Tivi-Asanzo-50-inch-50E890-300x300.png",
       name: "LED 50 INCH",
+      retail: "./Product_retail/product_retail.html",
     },
     {
       image: "../../Image/product_led/Tivi-Asanzo-50-inch-50E890-300x300.png",
       name: "LED 55 INCH",
+      retail: "./Product_retail/product_retail.html",
     },
     {
       image:
         "../../Image/product_led../../../Image/product_led/LED-CHAN-DUNG-300x300.png",
       name: "LED CHÂN ĐỨNG",
+      retail: "./Product_retail/product_retail.html",
     },
     {
       image: "../../Image/product_led/LED-CHAN-QUY-600x600.png",
       name: "LED CHÂN QUỲ",
+      retail: "./Product_retail/product_retail.html",
     },
     {
       image: "../../Image/products/videowall-55-300x300.png",
       name: "MÀNG HÌNH GHÉP TV 40 INCH",
+      retail: "./Product_retail/product_retail.html",
     },
     {
       image: "../../Image/products/videowall-43-INCH-300x300.jpeg",
       name: "MÀNG HÌNH GHÉP TV 43 INCH",
+      retail: "./Product_retail/product_retail.html",
     },
     {
       image: "../../Image/products/videowall-50-INCH-300x300.png",
       name: "MÀNG HÌNH GHÉP TV 50 INCH",
+      retail: "./Product_retail/product_retail.html",
     },
   ],
 };

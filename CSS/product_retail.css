@@ -66,3 +66,15 @@
 .checked {
   color: #19459b;
 }
+
+img {
+  width: 50%;
+}
+i {
+  font-size: 12px;
+}
+
+#container_list_product ul li a {
+  text-decoration: none;
+  color: #383838;
+}

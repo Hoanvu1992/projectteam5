@@ -3,7 +3,7 @@ let products = {
     {
       image: "../../../Image/products/khung-treo-tivi-32-inch-300x300.png",
       name: "KHUNG TREO TV CỐ ĐỊNH",
-      retail: "../product.html",
+      retail: "../Product_retail/product_retail.html",
     },
   ],
 };

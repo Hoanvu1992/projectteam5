@@ -1,0 +1,8 @@
+<!-- <div class="d-flex mt-5 pt-5 border-bottom border-1">
+                        <img src="../../../Image/products/32.png" alt="" style="width: 50%;">
+                        <span class="ms-3">
+                            <p class="pb-4 fw-bolder">TV ASANZO 32-Inch</p>
+                            <a href=""><i class="fa-solid fa-thumbs-up bg-primary text-white px-2 py-1 rounded" style="font-size: 12px;"> Like</i></a>
+                            <a href=""><i class="fa-solid fa-share bg-primary text-white px-2 py-1 rounded" style="font-size: 12px;"> Share</i></a>
+                        </span>
+</div> -->

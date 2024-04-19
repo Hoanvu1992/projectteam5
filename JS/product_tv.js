@@ -4,20 +4,23 @@ let products = {
       image:
         "../../../Image/products/tivi-led-asanzo-32-inch-32at130-1-300x300.jpeg",
       name: "TV ASANZO 32 INCH",
-      retail: "../product.html",
+      retail: "../Product_retail/product_retail.html",
     },
     {
       image:
         "../../../Image/products/tivi-led-Asanzo-43T660-anh-dai-dien-2-300x300.jpeg",
       name: "TV ASANZO 43 INCH",
+      retail: "../Product_retail/product_retail.html",
     },
     {
       image: "../../../Image/products/Tivi-Asanzo-50-inch-50E890-300x300.png",
       name: "TV ASANZO 50 INCH",
+      retail: "../Product_retail/product_retail.html",
     },
     {
       image: "../../../Image/products/40S600T2-WEB-300x300.jpeg",
       name: "TV ASANZO 55 INCH",
+      retail: "../Product_retail/product_retail.html",
     },
   ],
 };

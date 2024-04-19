@@ -3,11 +3,12 @@ let products = {
     {
       image: "../../../Image/products/may-chieu-ngoai-troi-600x600.jpeg",
       name: "MÁY CHIẾU NGOÀI TRỜI",
-      retail: "../product.html",
+      retail: "../Product_retail/product_retail.html",
     },
     {
       image: "../../../Image/products/may-chieu-trong-nha-600x600.jpeg",
       name: "MÁY CHIẾU TRONG NHÀ",
+      retail: "../Product_retail/product_retail.html",
     },
   ],
 };

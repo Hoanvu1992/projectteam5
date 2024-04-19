@@ -3,15 +3,17 @@ let products = {
     {
       image: "../../../Image/products/videowall-43-INCH-300x300.jpeg",
       name: "VIDEOWALL MATRIX 43 INCH",
-      retail: "../product.html",
+      retail: "../Product_retail/product_retail.html",
     },
     {
       image: "../../../Image/products/videowall-50-INCH-300x300.png",
       name: "VIDEOWALL MATRIX 50 INCH",
+      retail: "../Product_retail/product_retail.html",
     },
     {
       image: "../../../Image/products/videowall-55-300x300.png",
       name: "VIDEOWALL MATRIX 55 INCH",
+      retail: "../Product_retail/product_retail.html",
     },
   ],
 };
