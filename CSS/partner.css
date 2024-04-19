@@ -1,0 +1,148 @@
+/* header */
+#header a {
+  margin: 0px 8px;
+}
+
+/* navbar */
+
+#nav-element-a {
+  padding: 0px 10px;
+  color: #696969;
+  text-decoration: none;
+}
+#nav-element-a:hover {
+  color: #19459b;
+}
+
+/* Dropdown Button */
+.dropbtn {
+  background-color: white;
+  color: #696969;
+  font-size: 16px;
+  border: none;
+}
+
+.dropbtn a:hover {
+  color: #19459b;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 200px;
+  font-size: 12px;
+  text-align: center;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: #19459b;
+  padding: 12px 0px;
+  text-decoration: none;
+  display: block;
+  border-bottom: 1px solid #e3e1e1;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/* List media */
+
+#container-grid p {
+  color: black;
+  font-size: 20px;
+  font-weight: 900;
+  text-align: center;
+  padding: 20px;
+  margin: 0;
+  background-color: white;
+}
+
+.comic-button {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  color: white;
+  background-color: #6dafec;
+  border: 2px solid #000;
+  border-radius: 10px;
+  box-shadow: 5px 5px 0px #000;
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.comic-button:hover {
+  background-color: #fff;
+  color: #6dafec;
+  border: 2px solid #6dafec;
+  box-shadow: 5px 5px 0px #6dafec;
+}
+
+.comic-button:active {
+  background-color: #fcf414;
+  box-shadow: none;
+  transform: translateY(4px);
+}
+
+/* annimation text box */
+.one-div {
+  background-color: #f0f5f9;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+  font-family: Arial, sans-serif;
+  color: #333;
+  overflow: hidden;
+}
+
+.one-div::before {
+  content: "";
+  z-index: -1;
+  background-image: linear-gradient(45deg, #e1e8f2, #f0f5f9);
+  border-radius: 20px;
+  opacity: 0.8;
+  transform: scale(1.2);
+  filter: blur(10px);
+}
+
+.one-div:hover {
+  transform: scale(1.05);
+  transition: transform 0.3s ease;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.one-div:hover::before {
+  animation: gradient-animation 5s linear infinite;
+}
+
+@keyframes gradient-animation {
+  0% {
+    background-position: 0% 50%;
+  }
+
+  50% {
+    background-position: 100% 50%;
+  }
+
+  100% {
+    background-position: 0% 50%;
+  }
+}
